@@ -1,0 +1,8 @@
+Execution Instructions:
+
+First, execute the python file with name Viterbi_Algorithm.py. Wait for 1 to 2 minutes for complete execution. You will get step by step update. Code: python2 Viterbi_Algorithm.py
+
+Next, execute the python file with name BeamLength_Algorithm.py. Wait for 40 to 50 seconds. You will see a prompt to enter beam width. Enter value between 1 and 14. Then, wait for 1 to 2 mins, you will see the accuracy. Code: python2 BeamLength_Algorithm.py
+
+Finally, execute the python file with name Forward_Backward_Algorithm.py. Wait for 2 to 3 mins to allow it to complete. Then, you will see the accuracy. You will get a step by step update. 
+Code: python2 Forward_Backward_Algorithm.py
